@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andro Blog</string>
+
+    <string name="default_news_title">News Title</string>
+    <string name="default_news_datetime">30 Aug 2016, 10:00:20</string>
+
+</resources>
